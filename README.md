@@ -1,6 +1,3 @@
-Buena versión, quedó bien prolija con la tabla. Le agrego la foto arriba del título, tal como charlamos:
-
-markdown
 <img src="imagenes/foto-perfil.jpeg" width="150" style="border-radius:50%">
 
 # ¡Hola! Soy Rubén Héctor Méndez 👋
